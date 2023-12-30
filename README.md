@@ -2,9 +2,6 @@
     <h1>Hi there, I'm  Mazalov Alexey </h1>
     <h3>Frontend Developer from Saint Petersburg</h3>
 </div>
-
-
-## 🌐 Socials:
 <div id="socials" align="center">
     <a href="https://vk.com/mazalovalex" target="_blank">
     <img src="https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk" alt="VK"/>
