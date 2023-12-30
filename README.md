@@ -3,6 +3,7 @@
     <h3>Frontend Developer from Saint Petersburg</h3>
 </div>
 
+
 ## 🌐 Socials:
 <div id="socials" align="center">
     <a href="https://vk.com/mazalovalex" target="_blank">
