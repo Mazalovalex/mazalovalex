@@ -9,7 +9,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-141130?style=flat-square&logo=Instagram" alt="Instagram"/>
   </a>
-  <a href="https://t.me/@mazalovalex" target="_blank">
+  <a href="https://t.me/mazalovalex" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-141130?style=flat-square&logo=Telegram" alt="Telegram"/>
   </a>
 </div>
