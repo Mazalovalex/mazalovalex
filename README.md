@@ -1,24 +1,26 @@
-<div id="header" align="center">
-    <h1>Привет, я Мазалов Алексей </h1>
-    <h3>Frontend-разработчик с опытом создания коммерческих проектов с нуля.
-<ul>
-  <li><a href="https://foye1583.ru/">Интернет-буфет театра</a></li>
-  <li><a href="https://прагматика-юг.рф/">Корпоративный сайт производителя краски</a></li>
-  <li><a href="https://great8-ru.vercel.app/">SPA-страница (pet-project)</a></li>
-</ul>
+<div align="center">
+
+# Привет, я Мазалов Алексей
+### Frontend-разработчик с опытом создания коммерческих проектов с нуля
+
+**Проекты в продакшене:**
+- [Интернет-буфет театра](https://foye1583.ru/)
+- [Корпоративный сайт производителя краски](https://прагматика-юг.рф/)
+- [SPA-страница (pet-project)](https://great8-ru.vercel.app/)
+
+**Связаться со мной:**
+<a href="https://vk.com/mazalovalex" target="_blank">
+    <img src="https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk" alt="VK"/>
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-141130?style=flat-square&logo=Instagram" alt="Instagram"/>
+</a>
+<a href="https://t.me/mazalovalex" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-141130?style=flat-square&logo=Telegram" alt="Telegram"/>
+</a>
 
 </div>
-<div id="socials" align="center">
-    <a href="https://vk.com/mazalovalex" target="_blank">
-    <img src="https://img.shields.io/badge/-VK-141130?style=flat-square&logo=Vk" alt="VK"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-141130?style=flat-square&logo=Instagram" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/mazalovalex" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-141130?style=flat-square&logo=Telegram" alt="Telegram"/>
-  </a>
-</div>
+
 
 
 # 💻 Стек:
