@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1>Hi there, I'm  Mazalov Alexey </h1>
-    <h3>Front End Developer from Saint Petersburg</h3>
+    <h3>Frontend-разработчик с опытом создания коммерческих проектов с нуля.
+Специализируюсь на React-приложениях и адаптивной верстке.</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://vk.com/mazalovalex" target="_blank">
